@@ -37,8 +37,8 @@ API backend em **Node.js** e **Express** para automação e monitoramento de mis
 ### 1. Clonar e Instalar Dependências
 
 ```bash
-git clone <url-do-seu-repositorio>
-cd <pasta>
+git clone https://github.com/ankaraforever/questflake-backend
+cd questflake-backend
 npm install
 ```
 
